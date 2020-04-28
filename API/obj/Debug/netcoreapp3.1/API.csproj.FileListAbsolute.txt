@@ -55,3 +55,4 @@
 /Users/rob/Documents/Udemy/NET_Core_Angular/ecommerceApp/API/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/e_sqlite3.dll
 /Users/rob/Documents/Udemy/NET_Core_Angular/ecommerceApp/API/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/e_sqlite3.dll
 /Users/rob/Documents/Udemy/NET_Core_Angular/ecommerceApp/API/obj/Debug/netcoreapp3.1/API.csproj.CopyComplete
+/Users/rob/Documents/Udemy/NET_Core_Angular/ecommerceApp/API/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll
