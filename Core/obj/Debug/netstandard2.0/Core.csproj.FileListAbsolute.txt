@@ -1,9 +1,0 @@
-/Users/rob/Documents/Udemy/NET_Core_Angular/ecommerceApp/Core/bin/Debug/netstandard2.0/Core.deps.json
-/Users/rob/Documents/Udemy/NET_Core_Angular/ecommerceApp/Core/bin/Debug/netstandard2.0/Core.dll
-/Users/rob/Documents/Udemy/NET_Core_Angular/ecommerceApp/Core/bin/Debug/netstandard2.0/Core.pdb
-/Users/rob/Documents/Udemy/NET_Core_Angular/ecommerceApp/Core/obj/Debug/netstandard2.0/Core.csprojAssemblyReference.cache
-/Users/rob/Documents/Udemy/NET_Core_Angular/ecommerceApp/Core/obj/Debug/netstandard2.0/Core.csproj.CoreCompileInputs.cache
-/Users/rob/Documents/Udemy/NET_Core_Angular/ecommerceApp/Core/obj/Debug/netstandard2.0/Core.AssemblyInfoInputs.cache
-/Users/rob/Documents/Udemy/NET_Core_Angular/ecommerceApp/Core/obj/Debug/netstandard2.0/Core.AssemblyInfo.cs
-/Users/rob/Documents/Udemy/NET_Core_Angular/ecommerceApp/Core/obj/Debug/netstandard2.0/Core.dll
-/Users/rob/Documents/Udemy/NET_Core_Angular/ecommerceApp/Core/obj/Debug/netstandard2.0/Core.pdb
