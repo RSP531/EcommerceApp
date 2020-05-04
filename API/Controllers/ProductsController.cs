@@ -11,7 +11,6 @@ namespace API.Controllers
   [Route("api/[controller]")]
   public class ProductsController : ControllerBase
   {
-    private readonly StoreContext _context;
     private readonly iProductRepository _repo;
     public ProductsController(iProductRepository repo)
     {
